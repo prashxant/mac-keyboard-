@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 export const Keyboard = () => {
   return (
-    <div className='w-[90vw] mt-10  mx-auto'>
-      
-    </div>
+<div className="relative h-[90%] w-[90%] flex justify-center items-center bg-zinc-800 rounded-3xl">
+
+</div>
   )
 }
