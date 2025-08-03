@@ -8,7 +8,7 @@ export default function Home() {
      <div>
     <Hero/>
      </div>
-     <div className=" relative h-full flex justify-center items-center  bg-amber-400 m-10">
+     <div className=" relative h-full flex justify-center items-center m-10">
       <Keyboard/>
      </div>
     </div>
