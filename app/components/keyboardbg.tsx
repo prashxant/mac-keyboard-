@@ -1,10 +1,10 @@
-import { Button } from "./button"
+import Keys from "./keys"
 
 
 export const Keyboard = () => {
   return (
-<div className="relative h-[80%] w-[90%] flex justify-center items-center  bg-zinc-800 rounded-3xl ">
-<Button/>
+<div>
+  <Keys/>
 </div>
   )
 }

@@ -13,3 +13,4 @@ export const Hero = () => {
   )
 }
 
+//"bg-[#0A090D] w-18 h-18 hover:scale-95 hover:shadow-lg/50 hover:shadow-zinc-950 transition duration-200  rounded-2xl text-white  shadow-lg/50 shadow-amber-50"
