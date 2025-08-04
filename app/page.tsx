@@ -1,6 +1,7 @@
 
 import { Hero } from "./components/hero";
-import { Keyboard } from "./components/keyboardbg";
+
+import { Keys } from "./components/keys";
 
 export default function Home() {
   return (
@@ -9,7 +10,7 @@ export default function Home() {
     <Hero/>
      </div>
      <div className=" relative h-full flex justify-center items-center m-10">
-      <Keyboard/>
+      <Keys/>
      </div>
     </div>
   );
